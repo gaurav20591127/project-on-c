@@ -6,10 +6,11 @@ This project was developed as part of the ACES C-Project Demonstration.
 
 ## Team Members
 
+- [Guru Prakash Gupta](https://github.com/guptaguruprakash)
 - [Kaushal Rijal](https://github.com/kaushalrijal)
 - [Hariom Raj Chauhan](https://github.com/HariomRajChauhan)
 - [Kaushal Kumar Roy](https://github.com/Prashantt6)
-- [Guru Prakash Gupta](https://github.com/satguru117)
+
 
 ## Features
 
